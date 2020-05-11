@@ -48,8 +48,6 @@ def simplify(poly):
     for item in mon_parts:
         #item.sort(key=len)
         item[1] = ''.join(sorted(item[1])) 
-        
-    #mon_parts = mon_parts.sort(key=lambda x: x[1])
   
     df = pd.DataFrame(mon_parts, columns = ['coeff', 'vari'])
     
