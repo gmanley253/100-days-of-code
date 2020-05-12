@@ -26,11 +26,19 @@
 
 ### Day 3: May 10th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Installed Visual Studio today and started reading about Django. Worked on a function to find the max score of a word using it's unicode position. 
 
-**Thoughts:** 
+**Thoughts:** The best solution used a lambda function to find the max score. I would like to try more function using lambdas.
 
-**Link to work:**
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Max_Value_Word.py
+
+### Day 4: May 11th, 2020
+
+**Today's Progress**: Installed Apache for Windows. Received new book titled Python Crash Course.
+
+**Thoughts**: 
+
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Max_Value_Word.py
 
 
 
