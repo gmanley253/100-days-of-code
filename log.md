@@ -34,11 +34,19 @@
 
 ### Day 4: May 11th, 2020
 
-**Today's Progress**: Installed Apache for Windows. Received new book titled Python Crash Course.
+**Today's Progress**: Installed Django for Anaconda. Received new book titled Python Crash Course. Started work on a merged string checker.
 
-**Thoughts**: 
+**Thoughts**: I struggled with moving the pointer through all the lists together. I will have to continue tomorrow. 
 
-**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Max_Value_Word.py
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Merged%20String%20Checker.py
+
+### Day 5: May 12th, 2020
+
+**Today's Progress**: Finished work on the merged string checker. 
+
+**Thoughts**: The solution was to not move through all the lists together but to compare each sublist one at a time using a for loop with a pointer. 
+
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Merged%20String%20Checker.py
 
 
 
