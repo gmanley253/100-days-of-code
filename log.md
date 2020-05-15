@@ -48,6 +48,14 @@
 
 **Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Merged%20String%20Checker.py
 
+### Day 6: May 13th, 2020
+
+**Today's Progress**: Installed PyCharm and set it up. Completed "Hello World!" app of Django. 
+
+**Thoughts**: Django is really complex and it will take me some time to master. My web server wouldn't restart after after I started it and stopped it. I shut down PyCharm and it worked okay. A couple days and I should finish the Django tutorial.
+
+**Link to work:** https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+
 
 
 
