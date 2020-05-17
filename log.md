@@ -52,9 +52,18 @@
 
 **Today's Progress**: Installed PyCharm and set it up. Completed "Hello World!" app of Django. 
 
-**Thoughts**: Django is really complex and it will take me some time to master. My web server wouldn't restart after after I started it and stopped it. I shut down PyCharm and it worked okay. A couple days and I should finish the Django tutorial.
+**Thoughts**: Django is really complex and it will take me some time to master. My web server wouldn't restart after after I started it and stopped it. I shut down PyCharm and it worked okay. A couple days and I should finish the Django tutorial. I will link to the larger project later.
 
 **Link to work:** https://docs.djangoproject.com/en/3.0/intro/tutorial02/
+
+### Day 7: May 14th, 2020
+
+**Today's Progress**: Began stage 2 of app in Django. Read ch. 9 of book on classes in Python Crash Course. Completed the exercises in chapter 9. 
+
+**Thoughts**: I got stuck completed the app when the tutorial started talking about classes. To take a break from the tutorial, I read the chapter on classes and completed the exercises to get a better understanding. The chapter was really enlightening.
+
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Ch%209%20Classes.py
+
 
 
 
