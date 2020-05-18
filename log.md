@@ -58,11 +58,19 @@
 
 ### Day 7: May 14th, 2020
 
-**Today's Progress**: Began stage 2 of app in Django. Read ch. 9 of book on classes in Python Crash Course. Completed the exercises in chapter 9. 
+**Today's Progress**: Began stage 2 of app in Django. Read ch. 9 of book on classes in Python Crash Course. Completed the exercises in chapter 9 on classes. 
 
 **Thoughts**: I got stuck completed the app when the tutorial started talking about classes. To take a break from the tutorial, I read the chapter on classes and completed the exercises to get a better understanding. The chapter was really enlightening.
 
 **Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Ch%209%20Classes.py
+
+### Day 8: May 15th, 2020
+
+**Today's Progress**: Completed the Roman Numeral checker in codewars.
+
+**Thoughts**: The section on classes really helped with this one. I used two different methods to look up the values (two lists, and a dictionary). 
+
+**Link to work:** https://github.com/gmanley253/100-days-of-code/blob/master/Projects/Roman%20Numeral%20Calculator.py
 
 
 
